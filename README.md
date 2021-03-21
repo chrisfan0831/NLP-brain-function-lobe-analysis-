@@ -1,11 +1,11 @@
 # Projects
 
-Materials for the Final Project for COGS 138 - Neural Data Science.
+Materials for the Final Project for UC San Diego COGS 138 - Neural Data Science.
 
 ## Project Documentation
 
-* [Project Guidelines](https://github.com/NeuralDataScience/Projects/blob/master/FinalProjectGuidelines.docx)
-* [Team Policies](https://github.com/NeuralDataScience/Projects/blob/master/FinalProjectHandout.docx)
+* [Project Guidelines](https://github.com/NeuralDataScience/Projects/blob/main/FinalProject_Guidelines.md)
+* [Team Policies](https://github.com/NeuralDataScience/Projects/blob/main/TeamPolicies.md)
 
 ## Project Template
 
@@ -36,9 +36,14 @@ You can use this checklist to help guide your thinking on the final project. If 
 - [ ] Explain why you think this will be the outcome (what was your thinking?)
 
 ### Data Analysis:
+**Dataset(s)**
+- [ ] Describe your dataset(s), and link to their source(s)
 
 **Data Wrangling**
 - [ ] Pull your data into Python and explain steps taken to isolate the data you need
+
+**Data Cleaning**
+- [ ] Describe the steps you took to clean your data
 
 **Data Visualization**:
 - [ ] Include at least three visualizations
