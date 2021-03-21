@@ -4,9 +4,9 @@
 **Table of Contents**
 
 - [Project Overview](#Project-Overview)
-- [Tools and Datasets](#Tools-Datasets)
+- [Tools and Datasets](#Tools-and-Datasets)
 - [Advice](#Advice)
-- [Previous COGS 138 Final Projects](Previous-COGS-138-Final-Projects)
+- [Previous COGS 138 Final Projects](#Previous-COGS-138-Final-Projects)
 
 <!-- toc -->
 
