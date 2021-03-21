@@ -4,10 +4,9 @@
 **Table of Contents**
 
 - [Project Overview](#Project-Overview)
-  * [Tools and Datasets](#Tools-Datasets)
+- [Tools and Datasets](#Tools-Datasets)
 - [Advice](#Advice)
-- [Previous COGS 108 Final Projects](Previous-COGS-108-Final-Projects)
-- [How to Find Datasets](#How-to-Find-Datasets)
+- [Previous COGS 138 Final Projects](Previous-COGS-138-Final-Projects)
 
 <!-- toc -->
 
@@ -33,7 +32,7 @@ The basic project steps (broken down in more detail below):
 
 We strongly encourage you to discuss potential project ideas with your TAs and IAs, and/or with Prof. Voytek! This will give us a chance to make sure you’re on the right track even before you submit your draft.
 
-### Tools and Datasets
+## Tools and Datasets
 
 - [LISC](https://lisc-tools.github.io/lisc/auto_tutorials/index.html)
 - [Neuroelectro](https://neuroelectro.org/api/docs/)
