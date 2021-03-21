@@ -1,5 +1,5 @@
 # TEAM POLICIES
-## (adapted from the policies written by [Prof. Shannon Ellis](http://www.shanellis.com/) for [COGSA 108 - Data Science in Practice](https://github.com/COGS108))
+## (adapted from the policies written by [Prof. Shannon Ellis](http://www.shanellis.com/) for [COGS 108 - Data Science in Practice](https://github.com/COGS108))
 
 Your team will have a number of responsibilities for completion of the NeuralDataScience group project.
 
