@@ -1,0 +1,2 @@
+# NLP-brain-function-lobe-analysis-
+We used LISC to collect published literature that did research about various brain functions from Pubmed. We then checked if any of these brain functions were correlated to any of four lobes in the scanned literature. We conducted NLP to cluster these brain functions into groups that had a similar amount of mention in the literature of each of the four lobes. This was done in order to reveal connections between these brain functions, and how the area that these processes are performed in the brain may determine their relationships.
